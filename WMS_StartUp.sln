@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WMS_StartUp", "Object\WMS_StartUp\WMS_StartUp.vbproj", "{24AC6EC5-2B2A-4C84-A193-98E7598CCD96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{9CD61A6E-F403-422B-A222-AC9ED79AAE82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pics", "Pics", "{076B8611-DD9A-4EBD-87E7-BCE63CE46A0B}"
+	ProjectSection(SolutionItems) = preProject
+		Pics\SplashBodyPic.png = Pics\SplashBodyPic.png
+		Pics\WMSIcon.ico = Pics\WMSIcon.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24AC6EC5-2B2A-4C84-A193-98E7598CCD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AC6EC5-2B2A-4C84-A193-98E7598CCD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AC6EC5-2B2A-4C84-A193-98E7598CCD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AC6EC5-2B2A-4C84-A193-98E7598CCD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95893064-97E4-452D-851D-1BFFA59D713F}
+	EndGlobalSection
+EndGlobal
